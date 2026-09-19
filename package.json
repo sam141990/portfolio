@@ -1,0 +1,30 @@
+{
+  "name": "samuel-ashenafi-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Personal portfolio for Samuel Ashenafi Gizaw — software engineer working across AI/ML, backend, LLM evaluation and security.",
+  "author": "Samuel Ashenafi Gizaw",
+  "license": "MIT",
+  "homepage": "https://sam141990.github.io/portfolio/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sam141990/portfolio.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
