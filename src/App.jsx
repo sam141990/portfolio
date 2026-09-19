@@ -76,7 +76,7 @@ const JOBS = [
   },
   {
     title: "Software Engineer",
-    org: "Microlink Technologies",
+    org: "Genesis Technologies",
     when: "2020 — Present",
     where: "Full-time",
     bullets: [
@@ -693,7 +693,7 @@ export default function App() {
               </div>
               <div className="kv">
                 <span className="kv-key">university</span>
-                <span className="kv-val">Bahir Dar University</span>
+                <span className="kv-val">MicroLink Technology College</span>
               </div>
               <div className="kv">
                 <span className="kv-key">graduated</span>
